@@ -23,4 +23,6 @@ function calculadora(){
     $("#peso").val("");
     
     $("#textoApresentacao").html("IMC: "+imc+" Classificação é: "+classificacao);
+
+    return imc;
 }
