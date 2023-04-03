@@ -59,25 +59,23 @@
         },
         {
             "name": "d11wtq/boris",
-            "version": "v1.0.8",
+            "version": "v1.0.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/borisrepl/boris.git",
-                "reference": "125dd4e5752639af7678a22ea597115646d89c6e"
+                "reference": "31055b15e2d3fe47f31f6aa8e277f8f3fc7eb483"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/borisrepl/boris/zipball/125dd4e5752639af7678a22ea597115646d89c6e",
-                "reference": "125dd4e5752639af7678a22ea597115646d89c6e",
+                "url": "https://api.github.com/repos/borisrepl/boris/zipball/31055b15e2d3fe47f31f6aa8e277f8f3fc7eb483",
+                "reference": "31055b15e2d3fe47f31f6aa8e277f8f3fc7eb483",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
-            },
-            "suggest": {
                 "ext-pcntl": "*",
                 "ext-posix": "*",
-                "ext-readline": "*"
+                "ext-readline": "*",
+                "php": ">=5.3.0"
             },
             "bin": [
                 "bin/boris"
@@ -89,11 +87,15 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "A tiny, but robust REPL (Read-Evaluate-Print-Loop) for PHP.",
             "support": {
                 "issues": "https://github.com/borisrepl/boris/issues",
-                "source": "https://github.com/borisrepl/boris/tree/v1.0.8"
+                "source": "https://github.com/borisrepl/boris/tree/v1.0.10"
             },
-            "time": "2014-01-17T12:21:18+00:00"
+            "time": "2015-03-01T08:05:19+00:00"
         },
         {
             "name": "filp/whoops",
