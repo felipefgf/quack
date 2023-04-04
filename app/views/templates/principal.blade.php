@@ -28,8 +28,8 @@
       }
 
       .z-depth-5{
-        -webkit-box-shadow: 0 24px 38px 3px rgba(0,0,200,0.14), 0 9px 46px 8px rgba(0,0,200,0.12), 0 11px 15px -7px rgba(0,0,200,0.2);
-        box-shadow: 0 24px 38px 3px rgba(0,0,200,0.14), 0 9px 46px 8px rgba(0,0,200,0.12), 0 11px 15px -7px rgba(0,0,200,0.2);
+        -webkit-box-shadow: 0 24px 38px 3px rgba(87,159,255,0.14), 0 9px 46px 8px rgba(87,159,255,0.12), 0 11px 15px -7px rgba(87,159,255,0.2);
+        box-shadow: 0 24px 38px 3px rgba(87,159,255,0.14), 0 9px 46px 8px rgba(87,159,255,0.12), 0 11px 15px -7px rgba(87,159,255,0.2);
       }
 
       .page-footer {
@@ -39,16 +39,13 @@
 
       main{
         min-height: 77.5vh;
-        padding-left: 14.75%;
-        padding-right: 14.75%;
-
+        padding-left: 16%;
+        padding-right: 16%;
       }
 
       .row{ 
         margin: 0 !important;
       }
-
-    
 
   </style>
 
