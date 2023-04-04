@@ -18,6 +18,8 @@
 
       nav{
         background-color: #579fff;
+        padding-left: 14.75%;
+        padding-right: 14.75%;
       }
 
 
@@ -34,6 +36,12 @@
         color: #fff;
         background-color: #579fff;
       }
+
+      main{
+        min-height: 73vh;
+      }
+
+      .page-footer .row{}
 
   </style>
 
@@ -54,7 +62,7 @@
         </ul>
       </nav>
     </header>
-    <main style="min-height:68vh">
+    <main>
         @yield("conteudo")
     </main>
   </body>
@@ -69,18 +77,9 @@
         <div class="col l4 offset-l2 s12">
           <h5 class="white-text">Links</h5>
           <ul>
-            <li><a class="grey-text text-lighten-3" href="#!">Link 1</a></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Link 2</a></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Link 3</a></li>
-            <li><a class="grey-text text-lighten-3" href="#!">Link 4</a></li>
+            <li><a class="grey-text text-lighten-3" href="#!">Whatsapp</a></li>
           </ul>
         </div>
-      </div>
-    </div>
-    <div class="footer-copyright">
-      <div class="container">
-      © 2014 Copyright Text
-      <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
       </div>
     </div>
   </footer>
