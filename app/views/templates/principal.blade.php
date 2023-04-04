@@ -12,28 +12,28 @@
 
     <style> 
 
-      section{height: 300px;
-
+      section{
+        height: 300px;
       }
 
-      nav{background-color: blue;
-
+      nav{
+        background-color: #579fff;
       }
 
 
-      nav li:hover{ background-color: black;
-
+      nav li:hover{
+        background-color: black;
       }
 
       .z-depth-5{
         -webkit-box-shadow: 0 24px 38px 3px rgba(0,0,200,0.14), 0 9px 46px 8px rgba(0,0,200,0.12), 0 11px 15px -7px rgba(0,0,200,0.2);
         box-shadow: 0 24px 38px 3px rgba(0,0,200,0.14), 0 9px 46px 8px rgba(0,0,200,0.12), 0 11px 15px -7px rgba(0,0,200,0.2);
-
-
-
       }
 
-
+      .page-footer {
+        color: #fff;
+        background-color: #579fff;
+      }
 
   </style>
 
@@ -54,8 +54,8 @@
         </ul>
       </nav>
     </header>
-    <main style="min-hight:60vh">
-     @yield("conteudo")
+    <main style="min-height:68vh">
+        @yield("conteudo")
     </main>
   </body>
 
