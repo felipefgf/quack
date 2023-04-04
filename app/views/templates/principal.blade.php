@@ -38,10 +38,14 @@
       }
 
       main{
-        min-height: 73vh;
+        min-height: 77.5vh;
       }
 
-      .page-footer .row{}
+      .row{ 
+        margin: 0 !important;
+
+
+      }
 
   </style>
 
