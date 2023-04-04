@@ -20,6 +20,8 @@
         background-color: #579fff;
         padding-left: 14.75%;
         padding-right: 14.75%;
+        position: fixed;
+        top: 0;
       }
 
 
@@ -35,12 +37,17 @@
       .page-footer {
         color: #fff;
         background-color: #579fff;
+        
       }
 
       main{
         min-height: 77.5vh;
         padding-left: 16%;
         padding-right: 16%;
+        padding-top: 5vh;
+        
+
+        
       }
 
       .row{ 
