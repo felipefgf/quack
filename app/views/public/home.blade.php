@@ -1,7 +1,5 @@
 @extends('templates.principal')
 
 @section('conteudo')
-    <div>
-        Conteudo
-    </div>
+   uwddusahcuhauchachau
 @stop
