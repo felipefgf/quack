@@ -37,17 +37,13 @@
       .page-footer {
         color: #fff;
         background-color: #579fff;
-        
       }
 
       main{
-        min-height: 77.5vh;
+        min-height: calc(93vh - 64px);
         padding-left: 16%;
         padding-right: 16%;
-        padding-top: 5vh;
-        
-
-        
+        padding-top: 70px;
       }
 
       .row{ 
