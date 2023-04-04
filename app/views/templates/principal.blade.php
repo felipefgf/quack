@@ -39,13 +39,16 @@
 
       main{
         min-height: 77.5vh;
+        padding-left: 14.75%;
+        padding-right: 14.75%;
+
       }
 
       .row{ 
         margin: 0 !important;
-
-
       }
+
+    
 
   </style>
 
