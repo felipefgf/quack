@@ -12,7 +12,6 @@
       <nav class="z-depth-5">
 
         <ul>
-          <li><a href="#">Início</a></li>
           <li><a href="#">Roupas Masculinas</a></li>
           <li><a href="#">Roupas Femininas</a></li>
           <li><a href="#">Roupas Infantis</a></li>
@@ -32,7 +31,7 @@
       <div class="row">
         <div class="col l6 s12">
           <h5 class="white-text">Footer Content</h5>
-          <p class="grey-text text-lighten-4">You can use rows and columns here to organize your footer content.</p>
+          <p class="grey-text text-lighten-4">Desenvolvido por <a href="https://wa.me/+5521976672666">Lucas Amorim</a> e <a href="https://github.com/DenisFerreira90" target="_blank">Denis Ferreira</a> </p>
         </div>
         <div class="col l4 offset-l2 s12">
           <h5 class="white-text">Links</h5>

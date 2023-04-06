@@ -1,3 +1,8 @@
+body{
+  background-color: #e6e6e6;
+
+}
+
 section{
     height: 300px;
   }
@@ -27,8 +32,6 @@ section{
 
   main{
     min-height: calc(93vh - 64px);
-    padding-left: 16%;
-    padding-right: 16%;
     padding-top: 70px;
   }
 
@@ -37,8 +40,8 @@ section{
   }
   /* css home */
   .imagemprincipal img {
-    width: 500px;
-    
-    
-  }
-  
+    width: 80vw;
+    margin-top: -7px !important;
+    display: block;
+    margin: auto;
+}
