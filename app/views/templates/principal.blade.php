@@ -3,63 +3,9 @@
   <head>
     <meta charset="UTF-8">
     <title>Casa do Evangélico</title>
-    <link rel="stylesheet" href="{{asset('public/css/principal.css')}}">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    
-    
-    <!-- Compiled and minified CSS -->
-    
-
-    
-    
-    <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-            
-
-     <!-- <style> 
-
-      section{
-        height: 300px;
-      }
-
-      nav{
-        background-color: #579fff;
-        padding-left: 14.75%;
-        padding-right: 14.75%;
-        position: fixed;
-        top: 0;
-      }
-
-
-      nav li:hover{
-        background-color: black;
-      }
-
-      .z-depth-5{
-        -webkit-box-shadow: 0 24px 38px 3px rgba(87,159,255,0.14), 0 9px 46px 8px rgba(87,159,255,0.12), 0 11px 15px -7px rgba(87,159,255,0.2);
-        box-shadow: 0 24px 38px 3px rgba(87,159,255,0.14), 0 9px 46px 8px rgba(87,159,255,0.12), 0 11px 15px -7px rgba(87,159,255,0.2);
-      }
-
-      .page-footer {
-        color: #fff;
-        background-color: #579fff;
-      }
-
-      main{
-        min-height: calc(93vh - 64px);
-        padding-left: 16%;
-        padding-right: 16%;
-        padding-top: 70px;
-      }
-
-      .row{ 
-        margin: 0 !important;
-      }
-
-  </style>  -->
-
-
+    <link rel="stylesheet" href="{{asset('css/principal.css')}}">
   </head>
   <body>
     <header>
