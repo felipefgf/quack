@@ -35,3 +35,10 @@ section{
   .row{ 
     margin: 0 !important;
   }
+  /* css home */
+  .imagemprincipal img {
+    width: 500px;
+    
+    
+  }
+  

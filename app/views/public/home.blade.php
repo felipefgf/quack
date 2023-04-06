@@ -2,9 +2,8 @@
 
 @section('conteudo')
 
-     <!-- INICIO DENIS -->
+     
   <div class="imagemprincipal">
-        <!--aqui vem a imagem  -->
-
+      <img src='{{asset("imagens/CASADOEVANGELICO.png")}}'>
   </div>
 @stop
