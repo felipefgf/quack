@@ -3,14 +3,21 @@
   <head>
     <meta charset="UTF-8">
     <title>Casa do Evangélico</title>
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="{{asset('public/css/principal.css')}}">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    
+    
+    <!-- Compiled and minified CSS -->
+    
+
+    
+    
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
             
 
-    <style> 
+     <!-- <style> 
 
       section{
         height: 300px;
@@ -50,7 +57,7 @@
         margin: 0 !important;
       }
 
-  </style>
+  </style>  -->
 
 
   </head>

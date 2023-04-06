@@ -1,5 +1,10 @@
 @extends('templates.principal')
 
 @section('conteudo')
-   uwddusahcuhauchachau
+
+     <!-- INICIO DENIS -->
+  <div class="imagemprincipal">
+        <!--aqui vem a imagem  -->
+
+  </div>
 @stop
