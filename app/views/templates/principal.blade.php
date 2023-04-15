@@ -30,11 +30,11 @@
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
-          <h5 class="white-text">Footer Content</h5>
-          <p class="grey-text text-lighten-4">Desenvolvido por <a href="https://wa.me/+5521976672666">Lucas Amorim</a> e <a href="https://github.com/DenisFerreira90" target="_blank">Denis Ferreira</a> </p>
+          <h5 class="white-text">Casa do Evangélico</h5>
+          <p class="grey-text text-lighten-4">Desenvolvido por <a class='white-text' href="https://wa.me/+5521976672666">Lucas Amorim</a> e <a class='white-text' href="https://github.com/DenisFerreira90" target="_blank">Denis Ferreira</a> </p>
         </div>
         <div class="col l4 offset-l2 s12">
-          <h5 class="white-text">Links</h5>
+          <h5 class="white-text">Entre em contato</h5>
           <ul>
             <li><a class="grey-text text-lighten-3" href="#!">Whatsapp</a></li>
           </ul>
