@@ -10,6 +10,6 @@
 
      
   <div class="imagemprincipal">
-      <img src='{{asset("imagens/CASADOEVANGELICO.png")}}'>
+      <img src='{{asset("imagens/CASADOEVANGELICONEWIMAGE.png")}}'>
   </div>
 @stop

@@ -40,7 +40,8 @@ section{
   }
   /* css home */
   .imagemprincipal img {
-    width: 80vw;
+    width: 63VW;
+    HEIGHT: 50VH;
     margin-top: -7px !important;
     display: block;
     margin: auto;
