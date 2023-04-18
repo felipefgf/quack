@@ -47,3 +47,13 @@ main{
   display: block;
   margin: auto;
 }
+
+footer {
+  background-image: url('https://img.freepik.com/fotos-gratis/adolescente-com-rezar-na-natureza-ensolarada_1150-7219.jpg?w=900&t=st=1681842059~exp=1681842659~hmac=d8d79b0733fa7f6cc31d5f04502d9a7f770068d67c20915a296fa47546ce475b');
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px; /* ou a altura desejada */
+}
+
