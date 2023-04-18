@@ -14,17 +14,4 @@ h2{
 .divproduto img{
     max-width: 100%;
     border: solid 3px rgb(51, 118, 218);
-
-}
-.navigation-bar{
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    display: flex;
-    border: 3px coral solid;
-    height: 1vh;
-}
-
-.bar-all{
-    margin-left: 15px;
 }

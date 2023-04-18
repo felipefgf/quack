@@ -13,6 +13,7 @@
       <nav class="z-depth-5">
 
         <ul>
+          <li><a href="#">Becas</a></li>
           <li><a href="#">Roupas Masculinas</a></li>
           <li><a href="#">Roupas Femininas</a></li>
           <li><a href="#">Roupas Infantis</a></li>

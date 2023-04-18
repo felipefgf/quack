@@ -10,14 +10,7 @@
       <img src='{{asset("imagens/CASADOEVANGELICONEWIMAGE.png")}}'>
 </div>
 
-<div class="navigation-bar">
-              <ul>
-                  <li><a href="#">Feminino<span class="bar-all"></span></a></li>
-                  <li><a href="#">Infantil<span class="bar-all"></span></a></li>
-                  <li><a href="#">Masculino<span class="bar-all"></span></a></li>
-                  <li><a href="#">Plus Size<span class="bar-all"></span></a></li>
-              </ul>
-</div>
+
 <h1>Feminino</h1>
 <h3>Camisas</h3>
 <div class='divprodutos'>
