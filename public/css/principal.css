@@ -1,5 +1,6 @@
 body{
-  background-color: #e6e6e6;
+  background-color: lightgray;
+  
 }
 
 section{
@@ -28,7 +29,8 @@ nav li:hover{
   color: #fff;
   background-color: #579fff;
   padding-top: 34px;
-  height: 45vh;
+  height: 30vh;
+  width: 180vh;
 }
 
 main{

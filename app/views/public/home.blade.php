@@ -39,12 +39,9 @@
     </ul>
   </div>
   
-<div class="imagemprincipal">
-      <img src='{{asset("imagens/CASADOEVANGELICONEWIMAGE.png")}}'>
-</div>
+<div> 
+<img src=" https://cdn.superbook.cbn.com/sites/default/files/gospel-background_5.jpg">
 
-
-<h1>Feminino</h1>
 <h3>Camisas</h3>
 <div class='divprodutos'>
     @for($i=0; $i < 8;$i++ )
