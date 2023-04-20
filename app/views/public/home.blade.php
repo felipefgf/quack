@@ -40,7 +40,7 @@
   </div>
   
 <div> 
-<img src=" https://cdn.superbook.cbn.com/sites/default/files/gospel-background_5.jpg">
+<img src="{{asset('imagens/backgroundAnjo.jpg')}}">
 
 <h3>Camisas</h3>
 <div class='divprodutos'>
