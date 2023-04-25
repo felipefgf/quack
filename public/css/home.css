@@ -2,15 +2,23 @@ h1{
     text-align: center;
     color: black;
 }
+
 h2{
     text-align: left;
 }
+
+#imgBGAnjo{
+    width: 100%;
+}
+
 .divprodutos{
     display: flex;
 }
+
 .divproduto{
     max-width: 20vw;
 }
+
 .divproduto img{
     max-width: 100%;
     border: solid 3px rgb(51, 118, 218);

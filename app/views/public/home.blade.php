@@ -40,7 +40,7 @@
   </div>
   
 <div> 
-<img src="{{asset('imagens/backgroundAnjo.jpg')}}">
+<img id="imgBGAnjo" src="{{asset('imagens/backgroundAnjo.jpg')}}">
 
 <h3>Camisas</h3>
 <div class='divprodutos'>
