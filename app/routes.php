@@ -10,6 +10,6 @@
 |
 */
 
-    Route::get('/', function() {
-        return View::make('public.home');
-    });
+Route::get('/', 'HomeController@getHome');
+Route::get('/adicionaRoupa', 'HomeController@getAdicionaRoupa');
+Route::post('/adicionaRoupa', 'HomeController@postAdicionaRoupa');

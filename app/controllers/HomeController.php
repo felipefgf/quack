@@ -15,9 +15,29 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
-	{
-		return View::make('hello');
-	}
 
+    public function getHome(){
+        $roupas = Roupa::get();
+
+
+        return View::make('public.home')->with(array(
+            "roupas" => $roupas,
+        ));
+    }
+
+    public function getAdicionaRoupa(){
+        return View::make('public.adicionaRoupa')->with(array(
+        ));
+    }
+
+    public function postAdicionaRoupa(){
+        $dados = Input::get();
+
+        $roupa = new Roupa();
+        $roupa->nome = $dados['nome'];
+        $roupa->tamanho = $dados['tamanho'];
+        $roupa->save();
+
+        return Redirect::To('/');
+    }
 }
